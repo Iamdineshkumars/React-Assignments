@@ -1,0 +1,59 @@
+
+.Navbar{
+    border:3px solid black;
+    width:700px;
+    height:80px;
+    border-radius: 8px;
+    display:flex;
+    flex-direction:row;
+    gap:20px
+  
+  }
+  .Image{
+    padding:9px;
+  }
+  .img{
+    border-radius: 50%;
+    width:60px;
+    height:60px;
+  }
+  .section1{
+    width:140px;
+    height:100px;
+    display:flex;
+    flex-direction: column;
+  }
+  .userName{
+    display:flex;
+    flex-direction:row;
+    justify-content: space;
+    width:150px
+  }
+  .address{
+   position:relative;
+   bottom:30px;
+  }
+  .Section2{
+  
+    width:250px;
+    display:flex;
+    gap:30px;
+  }
+  .Section2 p{
+    position:relative;
+    bottom:15px;
+  }
+  
+  .Section3{
+    margin-right:60px;
+    padding:20px 30px;
+    width:130px;
+  }
+  .button{
+    width:130px;
+    border-radius:20px;
+  }
+  .button p{
+    color:red;
+    padding-top:10px;
+  }
